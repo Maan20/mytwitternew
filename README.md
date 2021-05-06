@@ -1,4 +1,4 @@
-# Django Twitter Clone by Redian Marku
+# Django Twitter Clone by Armaan Xargar
 
 Fully functional Django App that looks ecxatly like real Twitter.
 
@@ -44,7 +44,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Please Subscribe my YouTube Channel: <a href="https://www.youtube.com/channel/UCO5WiowKFnEw17AOk008WOQ" target="_blank">Top Notch Programmer</a>.
 
-# Donate
-[![paypal](https://mk0mightycausebxdggx.kinstacdn.com/wp-content/uploads/2019/06/paypal-donate-button-high-quality-png.png)](https://www.paypal.me/redidev)
+Make Dua For me
